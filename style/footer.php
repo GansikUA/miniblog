@@ -36,8 +36,8 @@
 </footer>
 
 <!-- Bootstrap core JavaScript -->
-<script src="../style/vendor/jquery/jquery.min.js"></script>
-<script src="../style/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="<?=URL_TO_ROOT?>style/vendor/jquery/jquery.min.js"></script>
+<script src="<?=URL_TO_ROOT?>style/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 <!-- summernote editor-->
 <script src="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.11/summernote-lite.js"></script>

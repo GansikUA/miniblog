@@ -20,3 +20,6 @@ try {
 
     echo $e->getMessage();
 }
+
+define("URL_TO_ROOT", "http://".$_SERVER['HTTP_HOST']."/miniblog/" );
+define('URL_SIRE', "http://".$_SERVER['HTTP_HOST']."");
